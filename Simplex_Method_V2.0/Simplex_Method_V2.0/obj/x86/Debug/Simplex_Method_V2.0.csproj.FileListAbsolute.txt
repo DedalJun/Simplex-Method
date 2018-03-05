@@ -1,0 +1,8 @@
+c:\users\админ\documents\visual studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\bin\Debug\Simplex_Method_V2.0.exe
+c:\users\админ\documents\visual studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\bin\Debug\Simplex_Method_V2.0.pdb
+c:\users\админ\documents\visual studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\obj\x86\Debug\Simplex_Method_V2._0.Form1.resources
+c:\users\админ\documents\visual studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\obj\x86\Debug\Simplex_Method_V2._0.Properties.Resources.resources
+c:\users\админ\documents\visual studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\obj\x86\Debug\Simplex_Method_V2.0.csproj.GenerateResource.Cache
+c:\users\админ\documents\visual studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\obj\x86\Debug\Simplex_Method_V2.0.exe
+c:\users\админ\documents\visual studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\obj\x86\Debug\Simplex_Method_V2.0.pdb
+C:\Users\Админ\Documents\Visual Studio 2010\Projects\Simplex_Method_V2.0\Simplex_Method_V2.0\obj\x86\Debug\Simplex_Method_V2.0.csprojResolveAssemblyReference.cache
